@@ -1,0 +1,12 @@
+This is an introductory file for this repository
+
+git init - creates a new git repository in the current directory
+
+git status - to view the status of the git repository. THis display current branch, and if there are any new / untracked files
+
+git commit - this records / stores the current tracked changes into the repository
+
+git add - this adds the content of the specified file to the git repository, and makes it ready to be committed
+
+git log - this is show the commits history of a repository
+
