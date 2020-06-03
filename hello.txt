@@ -10,3 +10,6 @@ git add - this adds the content of the specified file to the git repository, and
 
 git log - this is show the commits history of a repository
 
+git branch - this command is used to create a new git branch on the repository
+
+
