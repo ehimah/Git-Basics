@@ -13,3 +13,5 @@ git log - this is show the commits history of a repository
 git branch - this command is used to create a new git branch on the repository
 
 git checkout - this command is used to switch to an existing branch
+
+git merge - this command is used to merge changes from one branch into the current branch
